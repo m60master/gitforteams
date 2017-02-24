@@ -1,4 +1,6 @@
 Git for Teams of One or More
+HAPPY_HACKING_HAPPY_HACKING_HAPPY_HACKING
+WHY_REINVENT_THE_WHEEL_WHY_REINVENT_THE_WHEEL
 =====================
 
 Supporting files for workshops and sessions about creating a developer work flow for your project (and your team) with the version control system, git.
